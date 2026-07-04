@@ -1,4 +1,5 @@
  🌍 Global CO₂ Emissions Analysis
+ 
 📌 Project Overview
 This project analyzes historical global CO₂ emissions using a real-world environmental dataset containing 79 variables related to carbon emissions, greenhouse gases, GDP, population, and energy consumption.
 
